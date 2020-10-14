@@ -88,6 +88,7 @@ p {
   float: left;
   margin-right: 30px;
   width: 25%;
+  padding-bottom: 150px;
 }
 
 .contact-btn {}
@@ -103,6 +104,7 @@ p {
   float: right;
   margin-left: 30px;
   width: 25%;
+  padding-bottom: 150px;
 }
 
 .footer-contact{
